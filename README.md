@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cathy</h1>
-<h3 align="center">A recent software engineering graduate from the Flatiron School</h3>
+<h3 align="center">A recent software engineering graduate of the Flatiron School</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=catd825&label=Profile%20views&color=0e75b6&style=flat" alt="catd825" /> </p>
 
