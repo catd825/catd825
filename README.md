@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://catd825.github.io](https://catd825.github.io)
-
 - 📫 How to reach me **catd825@gmail.com**
 
 <p align="left">
