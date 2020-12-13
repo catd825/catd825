@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [budgetBuddy](https://github.com/catd825/budgetBuddy_frontend_Mod5)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Node/Express/Mongo**
 
 - 📫 How to reach me **catd825@gmail.com**
 
