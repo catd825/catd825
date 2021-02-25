@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a [financial app](https://github.com/catd825/plaid-project) using the Plaid API
 
-- 🌱 I’m currently learning **Node/Express/Mongo**
+- 🌱 I’m currently learning **TDD with Jest/Enzyme**
 
 - 📫 How to reach me **catd825@gmail.com**
 
