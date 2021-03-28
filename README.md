@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=catd825&label=Profile%20views&color=0e75b6&style=flat" alt="catd825" /> </p>
 
-- 🔭 I’m currently working on a [recipe app](https://github.com/catd825)
+- 🔭 I’m currently working on a [recipe app](https://github.com/catd825/recipe_app_frontend)
 
-- 🌱 I’m currently learning **Hooks**
+- 🌱 I’m currently learning **Hooks** and **NextJS**
 
 - 📫 How to reach me **catd825@gmail.com**
 
