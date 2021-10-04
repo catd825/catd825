@@ -5,8 +5,6 @@
 
 - 🔭 Software Engineer at [Rhino](https://www.sayrhino.com)
 
-<!-- - 🌱 I’m currently learning **Hooks** and **NextJS** -->
-
 - 📫 How to reach me **catd825@gmail.com**
 
 <p align="left">
